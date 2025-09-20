@@ -63,6 +63,8 @@
 </div>
 <h4 id="">Diagrama de Flujo del funcionamiento del Negocio</h4>
 <p>
+  <img width="1231" height="1369" alt="image" src="https://github.com/user-attachments/assets/caf08612-2cff-4de0-a729-abffd12a33b3" />
+
   A continuación, se presentan las distintas pantallas que conforman la aplicación, junto con su propósito y principales funcionalidades:
 </p>
 <h4 id="">Pantalla 1️⃣: Pantalla de Bienvenida/Inicio</h4>
@@ -188,7 +190,19 @@
 
 <h4 id="">Pantalla 8️⃣: Pantalla Gestionar Tiendas</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9d29520b-9ce9-4cf4-8093-64e5f1bbd225" />
+<h4>🎯 Propósito</h4>
+<p>
+  Crear y gestionar las Tiendas a las que se asignarán los presupuestos.
+</p>
 
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar el código por el cual se identifica cada Tienda.</li>
+  <li>Crear un nuevo código por cada Tienda con el nombre que le corresponde.</li>
+  <li>Registrar los datos de cada Tienda: dirección, provincia, distrito, departamento y metros cuadrados.</li>
+  <li>Asignar el Proyectista, Comercial y Cliente mediante el ID de cada uno.</li>
+  <li>Desde esta screen se puede acceder, mediante un botón, a la pantalla de creación/modificación de Proyectistas, Comerciales o Clientes en caso sea necesario registrarlos.</li>
+</ul>
 
 <h4 id="">Pantalla 9️⃣: Pantalla Gestionar Comerciales</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d7c6bfe7-3bb8-4fee-82b0-d7f48d3904b3" />
@@ -231,6 +245,35 @@
 
   <h2>C3: Capa de extracción, transformación y carga</h2>
   <h2>C4: Capa de almacén de datos</h2>
+  
   <h2>C5: Capa de presentación</h2>
+
+  <h4>📝 Descripción General</h4>
+  <p>
+    Los reportes generados en <strong>Power BI</strong> representan la capa de presentación de la solución empresarial, 
+    ya que transforman información compleja en visualizaciones claras, comprensibles y orientadas a la acción. 
+    Estos reportes están diseñados con un enfoque ejecutivo, cuidando los detalles y priorizando la experiencia del usuario 
+    mediante una interfaz moderna e intuitiva.
+  </p>
+
+  <h4>⚙️ Principales Características</h4>
+  <ul>
+    <li>📖 <strong>Storytelling con datos</strong>: cada reporte sigue una secuencia lógica que facilita la lectura 
+        y comprensión de los resultados, vinculando métricas con decisiones estratégicas.</li>
+    <li>📈 <strong>Análisis descriptivo y predictivo</strong>: los reportes incluyen indicadores como ticket promedio mensual, 
+        tendencias de ventas y segmentación por ubicación.</li>
+    <li>🎛️ <strong>Filtros dinámicos e interacción cruzada</strong>: los usuarios pueden personalizar la vista aplicando 
+        filtros por fechas, sedes u otros criterios, enriqueciendo el análisis de forma flexible.</li>
+    <li>🔄 <strong>Actualización automatizada</strong>: la información se alimenta desde el <strong>Data Warehouse</strong> 
+        mediante procesos automáticos, garantizando datos precisos y en tiempo real.</li>
+  </ul>
+
+  <h4>🚀 Impacto</h4>
+  <p>
+    Esta capa convierte el ecosistema de datos de <strong>Forma Retail SAC</strong> en un soporte estratégico para la toma de 
+    decisiones basadas en evidencia. La claridad visual, sumada al análisis predictivo y contextualizado, contribuye a mejorar 
+    la eficiencia operativa y detectar nuevas oportunidades de optimización continua.
+  </p>
+  
 
 
