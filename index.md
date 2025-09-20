@@ -68,7 +68,7 @@
   A continuación, se presentan las distintas pantallas que conforman la aplicación, junto con su propósito y principales funcionalidades:
 </p>
 <h4 id="">Pantalla 1: Pantalla de Bienvenida/Inicio</h4>
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4e86d29-b6cc-461a-aaf8-c553049f48c6" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a4e86d29-b6cc-461a-aaf8-c553049f48c6" />
   <p>
     Esta pantalla actúa como punto de entrada principal a la aplicación, permitiendo al usuario seleccionar la acción que desea realizar dentro del sistema. La función transaccional principal disponible desde aquí es <strong>Gestionar Presupuesto</strong>.
   </p>
@@ -95,7 +95,7 @@
   </ul>
 </div>
 <h4 id="">Pantalla 2: Pantalla de Buscar Presupuesto</h4>
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/63a84f64-3ba7-4fc8-8a6a-1d178ec724bc" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63a84f64-3ba7-4fc8-8a6a-1d178ec724bc" />
   <h4>🎯 Propósito</h4>
   <p>
     Facilitar la búsqueda y selección de presupuestos existentes, permitiendo filtrar por cliente y tienda para acceder de forma ágil al presupuesto que se desea gestionar.
@@ -111,7 +111,7 @@
 
 </div>
 <h4 id="">Pantalla 3: Pantalla Gestionar Presupuestos</h4>
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/e8c1a910-58a0-42a4-96b1-bbc6956753fa" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e8c1a910-58a0-42a4-96b1-bbc6956753fa" />
   <h4>🎯 Propósito</h4>
   <p>
     Administrar los presupuestos asociados a una tienda específica, permitiendo tanto la creación de nuevos presupuestos como la visualización, consulta y acciones adicionales sobre los ya existentes.
@@ -129,7 +129,7 @@
 
 </div>
 <h4 id="">Pantalla 4: Pantalla Gestionar Presupuesto Detalle</h4>
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/4f23c548-c687-4139-9bf0-1ca16cb9823e" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f23c548-c687-4139-9bf0-1ca16cb9823e" />
 
 
   <h2>C3: Capa de extracción, transformación y carga</h2>
