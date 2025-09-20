@@ -1,4 +1,4 @@
-![Título](https://img.shields.io/badge/FORMA%20RETAIL%20S.A.-00796B?style=for-the-badge&logoColor=white)
+<img width="1087" height="610" alt="image" src="https://github.com/user-attachments/assets/02b3438b-e67f-4260-b30c-422d8245147e" />![Título](https://img.shields.io/badge/FORMA%20RETAIL%20S.A.-00796B?style=for-the-badge&logoColor=white)
 
 # Building Cloud Business Applications
 
@@ -93,7 +93,7 @@
       </ul>
     </li>
   </ul>
-</div>
+
 <h4 id="">Pantalla 2: Pantalla de Buscar Presupuesto</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63a84f64-3ba7-4fc8-8a6a-1d178ec724bc" />
   <h4>🎯 Propósito</h4>
@@ -109,7 +109,6 @@
     <li>Si no existe una tienda registrada, usar el botón <strong>“Gestionar Tienda”</strong> para crear una nueva tienda y continuar con el proceso de creación de un nuevo presupuesto.</li>
   </ul>
 
-</div>
 <h4 id="">Pantalla 3: Pantalla Gestionar Presupuestos</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e8c1a910-58a0-42a4-96b1-bbc6956753fa" />
   <h4>🎯 Propósito</h4>
@@ -127,10 +126,24 @@
     <li>Gestionar las facturas relacionadas con un presupuesto existente o recién creado a través del botón <strong>“Gestionar Facturas”</strong>, que permite crear o visualizar facturas vinculadas.</li>
   </ul>
 
-</div>
 <h4 id="">Pantalla 4: Pantalla Gestionar Presupuesto Detalle</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f23c548-c687-4139-9bf0-1ca16cb9823e" />
+  <h4>🎯 Propósito</h4>
+  <p>
+    Administrar las referencias o artículos que conforman el detalle de un presupuesto específico, permitiendo visualizar, consultar y adicionar nuevas referencias según corresponda.
+  </p>
 
+  <h4>⚙️ Funcionalidades</h4>
+  <ul>
+    <li>Visualizar en la <strong>galería de la derecha</strong> todas las referencias que integran el detalle del presupuesto seleccionado en la pantalla anterior.</li>
+    <li>Activar la visualización de los campos asociados a una referencia mediante el botón de la <strong>flechita verde</strong>.</li>
+    <li>Adicionar nuevas referencias al detalle de presupuesto, validando previamente su existencia.</li>
+    <li>En caso de que la referencia no exista, crearla a través del botón <strong>“Gestionar Referencias”</strong>.</li>
+    <li>Si la referencia ya existe, añadirla al presupuesto detalle con el botón <strong>“+”</strong> ubicado en la parte superior de la galería de referencias.</li>
+  </ul>
+
+<h4 id="">Pantalla 5: Pantalla Gestionar Factura</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/96776e50-f5ae-4ad0-a254-7e2d8353aa6c" />
 
   <h2>C3: Capa de extracción, transformación y carga</h2>
   <h2>C4: Capa de almacén de datos</h2>
