@@ -65,7 +65,7 @@
 <p>
   A continuación, se presentan las distintas pantallas que conforman la aplicación, junto con su propósito y principales funcionalidades:
 </p>
-<h4 id="">Pantalla 1: Pantalla de Bienvenida/Inicio</h4>
+<h4 id="">Pantalla 1️⃣: Pantalla de Bienvenida/Inicio</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a4e86d29-b6cc-461a-aaf8-c553049f48c6" />
   <p>
     Esta pantalla actúa como punto de entrada principal a la aplicación, permitiendo al usuario seleccionar la acción que desea realizar dentro del sistema. La función transaccional principal disponible desde aquí es <strong>Gestionar Presupuesto</strong>.
@@ -92,7 +92,7 @@
     </li>
   </ul>
 
-<h4 id="">Pantalla 2: Pantalla de Buscar Presupuesto</h4>
+<h4 id="">Pantalla 2️⃣: Pantalla de Buscar Presupuesto</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63a84f64-3ba7-4fc8-8a6a-1d178ec724bc" />
 
   <h4>🎯 Propósito</h4>
@@ -108,7 +108,7 @@
     <li>Si no existe una tienda registrada, usar el botón <strong>“Gestionar Tienda”</strong> para crear una nueva tienda y continuar con el proceso de creación de un nuevo presupuesto.</li>
   </ul>
 
-<h4 id="">Pantalla 3: Pantalla Gestionar Presupuestos</h4>
+<h4 id="">Pantalla 3️⃣: Pantalla Gestionar Presupuestos</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e8c1a910-58a0-42a4-96b1-bbc6956753fa" />
 
   <h4>🎯 Propósito</h4>
@@ -126,7 +126,7 @@
     <li>Gestionar las facturas relacionadas con un presupuesto existente o recién creado a través del botón <strong>“Gestionar Facturas”</strong>, que permite crear o visualizar facturas vinculadas.</li>
   </ul>
 
-<h4 id="">Pantalla 4: Pantalla Gestionar Presupuesto Detalle</h4>
+<h4 id="">Pantalla 4️⃣: Pantalla Gestionar Presupuesto Detalle</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f23c548-c687-4139-9bf0-1ca16cb9823e" />
 
   <h4>🎯 Propósito</h4>
@@ -143,7 +143,7 @@
     <li>Si la referencia ya existe, añadirla al presupuesto detalle con el botón <strong>“+”</strong> ubicado en la parte superior de la galería de referencias.</li>
   </ul>
 
-<h4 id="">Pantalla 5: Pantalla Gestionar Factura</h4>
+<h4 id="">Pantalla 5️⃣: Pantalla Gestionar Factura</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7faa1160-b73e-4d74-9b27-0054962c8a56" />
 <h4>🎯 Propósito</h4>
 <p>
@@ -158,7 +158,7 @@
   <li>Acceder desde la <strong>Pantalla de Bienvenida/Inicio</strong> para consultar todas las facturas sin filtros aplicados.</li>
 </ul>
 
-<h4 id="">Pantalla 6: Pantalla Gestionar Factura Detalle</h4>
+<h4 id="">Pantalla 6️⃣: Pantalla Gestionar Factura Detalle</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/618e528b-2f6c-4029-984b-059ade17bfb3" />
 <h4>🎯 Propósito</h4>
 <p>
@@ -173,7 +173,7 @@
   <li>Modificar referencias existentes seleccionándolas en la galería, editando sus campos con el <strong>icono de lápiz azul</strong> y guardando los cambios con el <strong>check azul</strong>.</li>
 </ul>
 
-<h4 id="">Pantalla 7: Pantalla Gestionar Clientes</h4>
+<h4 id="">Pantalla 7️⃣: Pantalla Gestionar Clientes</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/da0d3770-af50-42fb-89c8-0c2958cdf75d" />
 <h4>🎯 Propósito</h4>
 <p>
@@ -186,11 +186,11 @@
   <li>Crear un nuevo código por cada Cliente con el nombre y RUC que le corresponde.</li>
 </ul>
 
-<h4 id="">Pantalla 8: Pantalla Gestionar Tiendas</h4>
+<h4 id="">Pantalla 8️⃣: Pantalla Gestionar Tiendas</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9d29520b-9ce9-4cf4-8093-64e5f1bbd225" />
 
 
-<h4 id="">Pantalla 9: Pantalla Gestionar Comerciales</h4>
+<h4 id="">Pantalla 9️⃣: Pantalla Gestionar Comerciales</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d7c6bfe7-3bb8-4fee-82b0-d7f48d3904b3" />
 <h4>🎯 Propósito</h4>
 <p>
@@ -203,7 +203,7 @@
   <li>Crear un nuevo código por cada Comercial con el nombre que le corresponde.</li>
 </ul>
 
-<h4 id="">Pantalla 10: Pantalla Gestionar Proyectistas</h4>
+<h4 id="">Pantalla 🔟: Pantalla Gestionar Proyectistas</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/68be84d0-2096-497e-bdf1-c2965437c012" />
 <h4>🎯 Propósito</h4>
 <p>
@@ -216,7 +216,7 @@
   <li>Crear un nuevo código por cada Proyectista con el nombre que le corresponde.</li>
 </ul>
 
-<h4 id="">Pantalla 11: Pantalla Gestionar Referencias</h4>
+<h4 id="">Pantalla 1️⃣1️⃣: Pantalla Gestionar Referencias</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3164bb0c-581e-44a9-898b-74ad7c1b2891" />
 <h4>🎯 Propósito</h4>
 <p>
