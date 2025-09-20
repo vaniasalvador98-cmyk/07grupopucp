@@ -1,4 +1,4 @@
-<img width="1087" height="610" alt="image" src="https://github.com/user-attachments/assets/02b3438b-e67f-4260-b30c-422d8245147e" />![Título](https://img.shields.io/badge/FORMA%20RETAIL%20S.A.-00796B?style=for-the-badge&logoColor=white)
+![Título](https://img.shields.io/badge/FORMA%20RETAIL%20S.A.-00796B?style=for-the-badge&logoColor=white)
 
 # Building Cloud Business Applications
 
