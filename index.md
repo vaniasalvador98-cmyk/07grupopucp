@@ -31,8 +31,6 @@
     <li>Facilitar el análisis de KPIs con Power BI y su distribución a las áreas clave.</li>
   </ul>
 
-</div>
-
 # Solución de Negocio Cloud con Microsoft Fabric, Power Platform y Power BI
   <h2>Solución de Negocio Moderna</h2>
 
