@@ -44,9 +44,9 @@
     <li><strong>Power Automate</strong> para automatizar procesos dentro del flujo de trabajo y aumentar la eficiencia operativa.</li>
   </ul>
 
-</div>
-
   <h2>Diagrama de la arquitectura de datos</h2>
+  <img width="1281" height="674" alt="image" src="https://github.com/user-attachments/assets/ccf259cd-dd20-41ad-a5e4-fb20f18bb6ad" />
+
 
   <h2>C1:Capa de datos</h2>
   <h2>C2: Capa de aplicación</h2>
@@ -94,6 +94,7 @@
 
 <h4 id="">Pantalla 2: Pantalla de Buscar Presupuesto</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63a84f64-3ba7-4fc8-8a6a-1d178ec724bc" />
+
   <h4>🎯 Propósito</h4>
   <p>
     Facilitar la búsqueda y selección de presupuestos existentes, permitiendo filtrar por cliente y tienda para acceder de forma ágil al presupuesto que se desea gestionar.
@@ -109,6 +110,7 @@
 
 <h4 id="">Pantalla 3: Pantalla Gestionar Presupuestos</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e8c1a910-58a0-42a4-96b1-bbc6956753fa" />
+
   <h4>🎯 Propósito</h4>
   <p>
     Administrar los presupuestos asociados a una tienda específica, permitiendo tanto la creación de nuevos presupuestos como la visualización, consulta y acciones adicionales sobre los ya existentes.
@@ -126,6 +128,7 @@
 
 <h4 id="">Pantalla 4: Pantalla Gestionar Presupuesto Detalle</h4>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f23c548-c687-4139-9bf0-1ca16cb9823e" />
+
   <h4>🎯 Propósito</h4>
   <p>
     Administrar las referencias o artículos que conforman el detalle de un presupuesto específico, permitiendo visualizar, consultar y adicionar nuevas referencias según corresponda.
@@ -141,7 +144,90 @@
   </ul>
 
 <h4 id="">Pantalla 5: Pantalla Gestionar Factura</h4>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/96776e50-f5ae-4ad0-a254-7e2d8353aa6c" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7faa1160-b73e-4d74-9b27-0054962c8a56" />
+<h4>🎯 Propósito</h4>
+<p>
+  Administrar las facturas relacionadas a un presupuesto específico o visualizarlas de manera general desde la pantalla de inicio, permitiendo crear nuevas facturas y modificar las existentes.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar en la <strong>galería de la derecha</strong> todas las facturas asociadas al presupuesto seleccionado en la pantalla <strong>“Gestionar Presupuestos”</strong>.</li>
+  <li>Crear una nueva factura mediante el botón <strong>“+”</strong> ubicado en la parte superior de la galería, completando los campos habilitados en el lado derecho para su registro.</li>
+  <li>Modificar una factura existente seleccionándola en la galería, editando sus campos a través del ícono de <strong>lapicito</strong> y guardando los cambios con el botón de <strong>check azul</strong>.</li>
+  <li>Acceder desde la <strong>Pantalla de Bienvenida/Inicio</strong> para consultar todas las facturas sin filtros aplicados.</li>
+</ul>
+
+<h4 id="">Pantalla 6: Pantalla Gestionar Factura Detalle</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/618e528b-2f6c-4029-984b-059ade17bfb3" />
+<h4>🎯 Propósito</h4>
+<p>
+  Administrar las referencias o artículos que conforman el detalle de una factura específica, permitiendo visualizar, adicionar o modificar la información relacionada a cada línea de la factura.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar en la <strong>galería izquierda</strong> todas las referencias asociadas a la factura seleccionada.</li>
+  <li>Al seleccionar una referencia en la galería, consultar sus <strong>campos detallados</strong> en la parte derecha de la pantalla.</li>
+  <li>Adicionar nuevas referencias al detalle de la factura mediante el botón <strong>“+ Insertar referencia o artículo a factura detalle”</strong>, completando los campos requeridos en la parte derecha y guardando con el <strong>check azul</strong>.</li>
+  <li>Modificar referencias existentes seleccionándolas en la galería, editando sus campos con el <strong>icono de lápiz azul</strong> y guardando los cambios con el <strong>check azul</strong>.</li>
+</ul>
+
+<h4 id="">Pantalla 7: Pantalla Gestionar Clientes</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/da0d3770-af50-42fb-89c8-0c2958cdf75d" />
+<h4>🎯 Propósito</h4>
+<p>
+  Crear y gestionar los datos de nuevos Clientes.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Registrar los datos del Cliente como el RUC y el nombre.</li>
+  <li>Crear un nuevo código por cada Cliente con el nombre y RUC que le corresponde.</li>
+</ul>
+
+<h4 id="">Pantalla 8: Pantalla Gestionar Tiendas</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9d29520b-9ce9-4cf4-8093-64e5f1bbd225" />
+
+
+<h4 id="">Pantalla 9: Pantalla Gestionar Comerciales</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d7c6bfe7-3bb8-4fee-82b0-d7f48d3904b3" />
+<h4>🎯 Propósito</h4>
+<p>
+  Crear y gestionar los datos de nuevos Comerciales, para asignarlos a cada tienda para su desarrollo.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar el código por el cual se identifica cada Comercial.</li>
+  <li>Crear un nuevo código por cada Comercial con el nombre que le corresponde.</li>
+</ul>
+
+<h4 id="">Pantalla 10: Pantalla Gestionar Proyectistas</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/68be84d0-2096-497e-bdf1-c2965437c012" />
+<h4>🎯 Propósito</h4>
+<p>
+  Crear y gestionar los datos de nuevos Proyectistas, para asignarlos a cada tienda para su desarrollo.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar el código por el cual se identifica cada Proyectista.</li>
+  <li>Crear un nuevo código por cada Proyectista con el nombre que le corresponde.</li>
+</ul>
+
+<h4 id="">Pantalla 11: Pantalla Gestionar Referencias</h4>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3164bb0c-581e-44a9-898b-74ad7c1b2891" />
+<h4>🎯 Propósito</h4>
+<p>
+  Crear y gestionar las referencias de los artículos que se van a incluir en los presupuestos.
+</p>
+
+<h4>⚙️ Funcionalidades</h4>
+<ul>
+  <li>Visualizar el código por el cual se identifica cada Referencia (Artículo).</li>
+  <li>Crear un nuevo código por cada Referencia con el nombre que le corresponde.</li>
+</ul>
 
   <h2>C3: Capa de extracción, transformación y carga</h2>
   <h2>C4: Capa de almacén de datos</h2>
