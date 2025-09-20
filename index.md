@@ -517,7 +517,7 @@ TotalFacturado = SUM('G7_Factura'[importe_total_factura])
     <h5>➡️Pantalla-Drill Through <h5>
    <img width="800" height="400" alt="INFORME 5_DRILL THROUGH" src="https://github.com/user-attachments/assets/9f025eef-b191-41bf-8345-378d36392a78" />
    <h4>🔴Informe 6<h4>
-   <h5>➡️Pantalla <h5> 
+     <h5>➡️Pantalla <h5> 
    <img width="800" height="400" alt="INFORME 6" src="https://github.com/user-attachments/assets/168c3492-d4d5-46f5-928f-6e44de768c55" />
     <h5>➡️Pantalla-Selección <h5> 
    <img width="800" height="400" alt="INFORME 6_SELECCION" src="https://github.com/user-attachments/assets/91d34e3d-a1a1-4c51-9a63-406f9ca89a21" />
